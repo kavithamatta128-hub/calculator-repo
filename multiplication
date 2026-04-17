@@ -1,0 +1,2 @@
+void multiplication (a,b)
+return (a*b)
